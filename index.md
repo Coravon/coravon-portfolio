@@ -25,8 +25,7 @@ An NPC that police can interact with to turn in any evidence in the vicinity. Ea
 A simple armory system that allows a certain group of people/teams to access. Players may select a loadout with preset items and effects.
 
 ### Leaderboard
-![Leaderboard Image](https://i.imgur.com/NKfZJQI.png)
-\
+![Leaderboard Image](https://i.imgur.com/KYa6ZXd.png)
 A simple command that displays the players in order with the most kills, deaths, kdr, and money.
 
 ### Simple Loadout
