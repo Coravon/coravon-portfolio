@@ -4,27 +4,12 @@ I am a Lua programmer with many years of experience. I've used Lua in many diffe
 
 You can contact me on [gmodstore](https://www.gmodstore.com/users/coravon) and [Discord](https://discordapp.com/users/220041054995349505).
 
-### Markdown
+### Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here are some of the projects I've worked on in the past:
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+####Supply Boxes
+![Supply Box Image](https://i.imgur.com/YUPcMgd.png)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
