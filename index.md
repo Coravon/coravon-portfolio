@@ -1,22 +1,33 @@
-## About
+# About
 
 I am a Lua programmer with many years of experience. I've used Lua in many different contexts; however, my main focus is currently on Garry's Mod. I have been in many different communities as a developer and am very passionate about coding.
 
 You can contact me on [gmodstore](https://www.gmodstore.com/users/coravon) and [Discord](https://discordapp.com/users/220041054995349505).
 
-### Projects
+## Projects
 
 Here are some of the projects I've worked on in the past:
 
-#### Supply Boxes
+### Supply Boxes
 ![Supply Box Image](https://i.imgur.com/YUPcMgd.png)
+An addon that spawns supply boxes out of the sky at random intervals. Can destroy or hold 'e' to open. Will drop random loadout of weapons and items.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Radio Tower
+![Radio Tower Image](https://i.imgur.com/VKg3xgn.png)
+A radio system that has a large, place-able radio tower. The radio tower may be interacted with to allow players to intercept comms of other groups/teams.
 
-### Jekyll Themes
+### Evidence Turn-in NPC
+![Evidence Turn-in Image](https://i.imgur.com/4tUsfpj.png)
+An NPC that police can interact with to turn in any evidence in the vicinity. Each piece of evidence is configured with a certain value and profits are split with all other police.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Coravon/coravon-portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Armory
+![Armory Image](https://i.imgur.com/shPFepT.png)
+A simple armory system that allows a certain group of people/teams to access. Players may select a loadout with preset items and effects.
 
-### Support or Contact
+### Leaderboard
+![Leaderboard Image](https://i.imgur.com/G59qFXw.png)
+A simple command that displays the players in order with the most kills, deaths, kdr, and money.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Simple Loadout
+![Simple Loadout Image](https://i.imgur.com/BHQTiNz.png)
+A simple loadout system that allows players to pick weapons from a list if they meet the level requirements.
