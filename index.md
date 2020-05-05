@@ -4,7 +4,15 @@ I am a Lua programmer with many years of experience. I've used Lua in many diffe
 
 You can contact me on [gmodstore](https://www.gmodstore.com/users/coravon), [Steam](https://steamcommunity.com/id/Emm4ly/), and [Discord](https://discordapp.com/users/220041054995349505).
 
-## Projects
+## Commissioned Projects
+
+Things I've been commissioned to make:
+
+### Case Opening System
+![Case Opening Image](https://i.imgur.com/BkIqbWp.png)
+Buy keys to use in custom boxes that contain weapons. Equip 1 weapon of choice to use from inventory. Integrated with SH Accessories currency.
+
+## Personal Projects
 
 Here are some of the projects I've worked on in the past:
 
