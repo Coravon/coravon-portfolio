@@ -8,6 +8,10 @@ You can contact me on [gmodstore](https://www.gmodstore.com/users/coravon), [Ste
 
 Things I've been commissioned to make:
 
+### Commodities System
+![Commodities System Image](https://i.imgur.com/8FjFwDR.png)
+Set-up commodities using in-game config to deliver to preset locations. Gives dynamic value based on popularity of commodity.
+
 ### Case Opening System
 ![Case Opening Image](https://i.imgur.com/BkIqbWp.png)
 Buy keys to use in custom boxes that contain weapons. Equip 1 weapon of choice to use from inventory. Integrated with SH Accessories currency.
