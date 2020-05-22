@@ -2,7 +2,7 @@
 
 I am a Lua programmer with many years of experience. I've used Lua in many different contexts; however, my main focus is currently on Garry's Mod. I have been in many different communities as a developer and am very passionate about coding.
 
-You can contact me on [gmodstore](https://www.gmodstore.com/users/coravon), [Steam](https://steamcommunity.com/id/Emm4ly/), and [Discord](https://discordapp.com/users/220041054995349505).
+You can contact me on [gmodstore](https://www.gmodstore.com/users/coravon), [Steam](https://steamcommunity.com/id/tBiggy/), and [Discord](https://discordapp.com/users/220041054995349505).
 
 ## Commissioned Projects
 
